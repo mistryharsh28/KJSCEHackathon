@@ -7,7 +7,7 @@ django-environ==0.4.5
 django-extensions==2.2.2
 django-heroku==0.3.1
 django-templated-mail==1.1.1
-djangorestframework==3.9.0
+djangorestframework==3.9.1
 djoser==2.0.3
 gcloud==0.17.0
 googleapis-common-protos==1.6.0
@@ -20,7 +20,7 @@ protobuf==3.10.0rc1
 psycopg2==2.8.3
 pyasn1==0.4.7
 pyasn1-modules==0.2.6
-pycryptodome==3.4.3
+pycryptodome==3.6.6
 python-dotenv==0.10.3
 python-jwt==2.0.1
 pytz==2019.2
