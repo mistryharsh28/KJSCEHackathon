@@ -7,7 +7,7 @@ django-environ==0.4.5
 django-extensions==2.2.2
 django-heroku==0.3.1
 django-templated-mail==1.1.1
-djangorestframework==3.9.0
+djangorestframework==3.9.1
 djoser==2.0.3
 gcloud==0.17.0
 googleapis-common-protos==1.6.0
